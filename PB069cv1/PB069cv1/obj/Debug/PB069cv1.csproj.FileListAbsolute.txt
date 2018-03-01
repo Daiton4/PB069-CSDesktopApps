@@ -1,0 +1,6 @@
+c:\users\martin\documents\visual studio 2017\Projects\PB069cv1\PB069cv1\bin\Debug\PB069cv1.exe.config
+c:\users\martin\documents\visual studio 2017\Projects\PB069cv1\PB069cv1\bin\Debug\PB069cv1.exe
+c:\users\martin\documents\visual studio 2017\Projects\PB069cv1\PB069cv1\bin\Debug\PB069cv1.pdb
+c:\users\martin\documents\visual studio 2017\Projects\PB069cv1\PB069cv1\obj\Debug\PB069cv1.csprojResolveAssemblyReference.cache
+c:\users\martin\documents\visual studio 2017\Projects\PB069cv1\PB069cv1\obj\Debug\PB069cv1.exe
+c:\users\martin\documents\visual studio 2017\Projects\PB069cv1\PB069cv1\obj\Debug\PB069cv1.pdb
