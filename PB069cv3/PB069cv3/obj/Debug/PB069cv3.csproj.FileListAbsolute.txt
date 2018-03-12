@@ -1,0 +1,9 @@
+C:\Users\Martin\Documents\Visual Studio 2017\Projects\PB069\cv3\PB069cv3\PB069cv3\bin\Debug\PB069cv3.exe.config
+C:\Users\Martin\Documents\Visual Studio 2017\Projects\PB069\cv3\PB069cv3\PB069cv3\bin\Debug\PB069cv3.exe
+C:\Users\Martin\Documents\Visual Studio 2017\Projects\PB069\cv3\PB069cv3\PB069cv3\bin\Debug\PB069cv3.pdb
+C:\Users\Martin\Documents\Visual Studio 2017\Projects\PB069\cv3\PB069cv3\PB069cv3\obj\Debug\PB069cv3.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2017\Projects\PB069\cv3\PB069cv3\PB069cv3\obj\Debug\PB069cv3.Form1.resources
+C:\Users\Martin\Documents\Visual Studio 2017\Projects\PB069\cv3\PB069cv3\PB069cv3\obj\Debug\PB069cv3.Properties.Resources.resources
+C:\Users\Martin\Documents\Visual Studio 2017\Projects\PB069\cv3\PB069cv3\PB069cv3\obj\Debug\PB069cv3.csproj.GenerateResource.Cache
+C:\Users\Martin\Documents\Visual Studio 2017\Projects\PB069\cv3\PB069cv3\PB069cv3\obj\Debug\PB069cv3.exe
+C:\Users\Martin\Documents\Visual Studio 2017\Projects\PB069\cv3\PB069cv3\PB069cv3\obj\Debug\PB069cv3.pdb
