@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <style type="text/css">
+        h1{
+            text-align: center;
+        }
+    
+    </style>
+</head>
+<body>
+	<h1>Task System Manual and Help</h1>
+    <section>
+        <h3>Set Up</h3>
+	    <p> Task System works best with Microsoft SQLServer databases. This version is prepared for use with localDb. After Instalation of your version of MS SQL server, get information on avaiable servers in command line by command "SQLLocalDB info".
+		    Choose your instance and use "SQLLocalDB start YourInstanceName". Then get connection link with "SQLLocalDB info YourInstance". Dont close command line. <br/><br/>
+		    Start Microsoft SQL Management Studio. Open file StartupQuery.sql located in folder TSFront/SetUp or TaskSystem/SetUp in management studio. In top section of file change properties FILENAME to desired file location
+		    (values given wont work on your computer). After this step your DB is created and you can close management studio. <br/><br/>
+		    In SetUp folder (TSFront for GUI, TaskSystem for console) open settings file and set value after "Database Link^" to your database link (same as in management studio login).<br/>
+		    Now you can login by name and password both "testuser"</p>
+    </section>
+    <section>
+        <h3>Using Application GUI</h3>
+	    <ol>
+		    <li><h5>Login Screen</h5></li>
+		    <p>On login screen you are asked to provide your credentials, username you were given (case insensitive) and password. In case you enter wrong information, message in red will appear, otherwise you will proceed to home section.</p>
+		    <li><h5>Home Screen</h5></li>
+		    <p>All controls are accesible through home screen. By default you can see here all your tasks and total time it takes to finish them. When you click on task, its prerequisities will show up. You can edit prerequisities by selecting task and pressing Edit over Prerequisities window.</p>
+	    </ol>
+		<h2>Documentation TODO</h2>
+    </section>
+    
+</body>
+</html>
