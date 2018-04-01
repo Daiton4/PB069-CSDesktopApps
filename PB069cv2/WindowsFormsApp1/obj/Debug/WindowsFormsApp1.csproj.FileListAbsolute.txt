@@ -16,3 +16,12 @@ C:\Users\Martin\Documents\Visual Studio 2017\Projects\PB069cv2\WindowsFormsApp1\
 C:\Users\Martin\Documents\Visual Studio 2017\Projects\PB069cv2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
 C:\Users\Martin\Documents\Visual Studio 2017\Projects\PB069cv2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\Martin\Documents\Visual Studio 2017\Projects\PB069cv2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Martin\Documents\Visual Studio 2017\Projects\PB069\PB069cv2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Martin\Documents\Visual Studio 2017\Projects\PB069\PB069cv2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Martin\Documents\Visual Studio 2017\Projects\PB069\PB069cv2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Martin\Documents\Visual Studio 2017\Projects\PB069\PB069cv2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2017\Projects\PB069\PB069cv2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Martin\Documents\Visual Studio 2017\Projects\PB069\PB069cv2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Martin\Documents\Visual Studio 2017\Projects\PB069\PB069cv2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Martin\Documents\Visual Studio 2017\Projects\PB069\PB069cv2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Martin\Documents\Visual Studio 2017\Projects\PB069\PB069cv2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

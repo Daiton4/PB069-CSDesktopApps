@@ -206,5 +206,10 @@ namespace PB069cv3
 			rectangleToolStripMenuItem.Checked = true;
 			CreateCurrent(ElementType.RECTANGLE);
 		}
+
+		private void toolStripMenuItem1_Click(object sender, EventArgs e)
+		{
+
+		}
 	}
 }

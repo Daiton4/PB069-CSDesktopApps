@@ -28,7 +28,7 @@ namespace PV069cv4
 						g.DrawLine(Pens.Black, obj.X, obj.Y, obj.X + obj.DX, obj.Y + obj.DY);
 						break;
 					case Types.Circle:
-						g.DrawArc(Pens.Black, obj.X - obj.DX, obj.Y - obj.DY, obj.X + obj.DX, obj.Y + obj.DY, 0, 359);
+						g.DrawArc(Pens.Black, obj.X - obj.DX, obj.Y - obj.DX, obj.X + obj.DX, obj.Y + obj.DX, 0, 359);
 						break;
 					case Types.Rectangle:
 						g.DrawRectangle(Pens.Black, obj.X, obj.Y, obj.DX, obj.DY);

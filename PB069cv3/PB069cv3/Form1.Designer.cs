@@ -68,25 +68,26 @@
 			this.toolStripMenuItem1.Name = "toolStripMenuItem1";
 			this.toolStripMenuItem1.Size = new System.Drawing.Size(37, 20);
 			this.toolStripMenuItem1.Text = "File";
+			this.toolStripMenuItem1.Click += new System.EventHandler(this.toolStripMenuItem1_Click);
 			// 
 			// newToolStripMenuItem
 			// 
 			this.newToolStripMenuItem.Name = "newToolStripMenuItem";
-			this.newToolStripMenuItem.Size = new System.Drawing.Size(103, 22);
+			this.newToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
 			this.newToolStripMenuItem.Text = "New";
 			this.newToolStripMenuItem.Click += new System.EventHandler(this.newToolStripMenuItem_Click);
 			// 
 			// saveToolStripMenuItem
 			// 
 			this.saveToolStripMenuItem.Name = "saveToolStripMenuItem";
-			this.saveToolStripMenuItem.Size = new System.Drawing.Size(103, 22);
+			this.saveToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
 			this.saveToolStripMenuItem.Text = "Save";
 			this.saveToolStripMenuItem.Click += new System.EventHandler(this.saveToolStripMenuItem_Click);
 			// 
 			// endToolStripMenuItem
 			// 
 			this.endToolStripMenuItem.Name = "endToolStripMenuItem";
-			this.endToolStripMenuItem.Size = new System.Drawing.Size(103, 22);
+			this.endToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
 			this.endToolStripMenuItem.Text = "End";
 			this.endToolStripMenuItem.Click += new System.EventHandler(this.endToolStripMenuItem_Click);
 			// 
@@ -103,21 +104,21 @@
 			// circleToolStripMenuItem
 			// 
 			this.circleToolStripMenuItem.Name = "circleToolStripMenuItem";
-			this.circleToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+			this.circleToolStripMenuItem.Size = new System.Drawing.Size(126, 22);
 			this.circleToolStripMenuItem.Text = "Circle";
 			this.circleToolStripMenuItem.Click += new System.EventHandler(this.circleToolStripMenuItem_Click);
 			// 
 			// rectangleToolStripMenuItem
 			// 
 			this.rectangleToolStripMenuItem.Name = "rectangleToolStripMenuItem";
-			this.rectangleToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+			this.rectangleToolStripMenuItem.Size = new System.Drawing.Size(126, 22);
 			this.rectangleToolStripMenuItem.Text = "Rectangle";
 			this.rectangleToolStripMenuItem.Click += new System.EventHandler(this.rectangleToolStripMenuItem_Click);
 			// 
 			// lineToolStripMenuItem
 			// 
 			this.lineToolStripMenuItem.Name = "lineToolStripMenuItem";
-			this.lineToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+			this.lineToolStripMenuItem.Size = new System.Drawing.Size(126, 22);
 			this.lineToolStripMenuItem.Text = "Line";
 			this.lineToolStripMenuItem.Click += new System.EventHandler(this.lineToolStripMenuItem_Click);
 			// 

@@ -81,5 +81,10 @@ namespace PV069cv4
 				drawArea.DrawObject(obj);
 			}
 		}
+
+		private void fileToolStripMenuItem_Click(object sender, EventArgs e)
+		{
+
+		}
 	}
 }
