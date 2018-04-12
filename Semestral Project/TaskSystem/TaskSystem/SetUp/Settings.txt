@@ -1,4 +1,4 @@
-Database Link^np:\\.\pipe\LOCALDB#6DE36658\tsql\query
+Database Link^np:\\.\pipe\LOCALDB#626DF0C8\tsql\query
 Database Name^TaskSystemDb
 //User Id^
 //Password^
