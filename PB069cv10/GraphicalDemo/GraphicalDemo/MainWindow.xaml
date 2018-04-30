@@ -1,0 +1,41 @@
+﻿<Window x:Class="GraphicalDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GraphicalDemo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Menu Grid.Row="0">
+            <MenuItem Header="File">
+                <MenuItem Header="New" Name="NewMenuItem" Click="NewMenuItem_Click"/>
+                <Separator Visibility="Hidden"/>
+                <MenuItem Header="Open" Name="OpenMenuItem" Click="OpenMenuItem_Click"/>
+                <MenuItem Header="Save" Name="SaveMenuItem" Click="SaveMenuItem_Click"/>
+                <Separator Visibility="Hidden"/>
+                <MenuItem Header="Exit" Name="ExitMenuItem" Click="ExitMenuItem_Click"/>
+            </MenuItem>
+            <MenuItem Header="Shape">
+                <MenuItem Header="Line" Name="LineMenuItem" Click="LineMenuItem_Click"/>
+                <MenuItem Header="Rectangle" Name="RectangleMenuItem" Click="RectangleMenuItem_Click"/>
+                <MenuItem Header="Ellipse" Name="EllipseMenuItem" Click="EllipseMenuItem_Click"/>
+            </MenuItem>
+        </Menu>
+        <ToolBar Grid.Row="1">
+            <Button >New</Button>
+            <Button >Open</Button>
+            <Button>Save</Button>
+            <Separator Width="10" Visibility="Hidden"/>
+            <Button>Line</Button>
+            <Button>Rectangle</Button>
+            <Button>Ellipse</Button>
+        </ToolBar>
+        <Canvas Name="DrawArea" Grid.Row="2"/>
+    </Grid>
+</Window>

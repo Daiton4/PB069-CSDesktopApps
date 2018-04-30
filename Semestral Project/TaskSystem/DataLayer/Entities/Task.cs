@@ -44,7 +44,7 @@ namespace DataLayer.Entities
 
 		public override string ToString()
 		{
-			return Name.ToString().PadRight(20) + ", " + Time.Hours.ToString().PadRight(3) + "h " + ((Time.TotalHours % 1) * 60).ToString("N2") + "m";
+			return Name.ToString().PadRight(20) + ", " + Time.Hours.ToString().PadRight(3) + "h " + ((Time.TotalHours % 1) * 60).ToString("N2").PadRight(5) + "m";
 		}
 
 		//objects are considered same if they share the Id

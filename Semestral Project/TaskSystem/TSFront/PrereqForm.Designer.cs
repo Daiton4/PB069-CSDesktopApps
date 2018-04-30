@@ -45,12 +45,12 @@
 			this.tasksListBox.Location = new System.Drawing.Point(17, 48);
 			this.tasksListBox.Margin = new System.Windows.Forms.Padding(4);
 			this.tasksListBox.Name = "tasksListBox";
-			this.tasksListBox.Size = new System.Drawing.Size(243, 260);
+			this.tasksListBox.Size = new System.Drawing.Size(296, 260);
 			this.tasksListBox.TabIndex = 0;
 			// 
 			// addPrereqButton
 			// 
-			this.addPrereqButton.Location = new System.Drawing.Point(269, 75);
+			this.addPrereqButton.Location = new System.Drawing.Point(321, 75);
 			this.addPrereqButton.Margin = new System.Windows.Forms.Padding(4);
 			this.addPrereqButton.Name = "addPrereqButton";
 			this.addPrereqButton.Size = new System.Drawing.Size(100, 28);
@@ -61,7 +61,7 @@
 			// 
 			// removePrereqButton
 			// 
-			this.removePrereqButton.Location = new System.Drawing.Point(269, 111);
+			this.removePrereqButton.Location = new System.Drawing.Point(321, 111);
 			this.removePrereqButton.Margin = new System.Windows.Forms.Padding(4);
 			this.removePrereqButton.Name = "removePrereqButton";
 			this.removePrereqButton.Size = new System.Drawing.Size(100, 28);
@@ -74,10 +74,10 @@
 			// 
 			this.prereqListBox.FormattingEnabled = true;
 			this.prereqListBox.ItemHeight = 16;
-			this.prereqListBox.Location = new System.Drawing.Point(377, 48);
+			this.prereqListBox.Location = new System.Drawing.Point(429, 48);
 			this.prereqListBox.Margin = new System.Windows.Forms.Padding(4);
 			this.prereqListBox.Name = "prereqListBox";
-			this.prereqListBox.Size = new System.Drawing.Size(243, 260);
+			this.prereqListBox.Size = new System.Drawing.Size(296, 260);
 			this.prereqListBox.TabIndex = 3;
 			// 
 			// taskLabel
@@ -93,7 +93,7 @@
 			// prereqLabel
 			// 
 			this.prereqLabel.AutoSize = true;
-			this.prereqLabel.Location = new System.Drawing.Point(373, 11);
+			this.prereqLabel.Location = new System.Drawing.Point(425, 11);
 			this.prereqLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
 			this.prereqLabel.Name = "prereqLabel";
 			this.prereqLabel.Size = new System.Drawing.Size(120, 16);
@@ -103,7 +103,7 @@
 			// 
 			// saveButton
 			// 
-			this.saveButton.Location = new System.Drawing.Point(269, 242);
+			this.saveButton.Location = new System.Drawing.Point(321, 242);
 			this.saveButton.Margin = new System.Windows.Forms.Padding(4);
 			this.saveButton.Name = "saveButton";
 			this.saveButton.Size = new System.Drawing.Size(100, 28);
@@ -114,7 +114,7 @@
 			// 
 			// cancelButton
 			// 
-			this.cancelButton.Location = new System.Drawing.Point(269, 278);
+			this.cancelButton.Location = new System.Drawing.Point(321, 278);
 			this.cancelButton.Margin = new System.Windows.Forms.Padding(4);
 			this.cancelButton.Name = "cancelButton";
 			this.cancelButton.Size = new System.Drawing.Size(100, 28);
@@ -127,7 +127,7 @@
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.ClientSize = new System.Drawing.Size(647, 336);
+			this.ClientSize = new System.Drawing.Size(734, 336);
 			this.Controls.Add(this.cancelButton);
 			this.Controls.Add(this.saveButton);
 			this.Controls.Add(this.prereqLabel);

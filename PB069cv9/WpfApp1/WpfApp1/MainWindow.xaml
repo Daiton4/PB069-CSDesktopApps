@@ -1,0 +1,29 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Menu Grid.Row="0">
+            <MenuItem Header="File" Name="File">
+                <MenuItem Header="New" Name="NewMenuItem" Click="NewMenuItem_OnClick"></MenuItem>
+                <MenuItem Header="Open" Name="OpenMenuItem" Click="OpenMenuItem_OnClick"></MenuItem>
+                <MenuItem Header="Save" Name="SaveMenuItem" Click="SaveMenuItem_OnClick"></MenuItem>
+                <Separator></Separator>
+                <MenuItem Header="Exit" Name="ExitMenuItem" Click="ExitMenuItem_OnClick"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="Presence" Name="Presence">
+                <MenuItem Header="Add..." Name="AddPresenceMenuItem" Click="AddPresenceMenuItem_OnClick"></MenuItem>
+                <MenuItem Header="Remove..." Name="RemovePresenceMenuItem" Click="RemovePresenceMenuItem_OnClick"></MenuItem>
+            </MenuItem>
+        </Menu>
+        <ListBox Grid.Row="1" Name="PresenceListBox"></ListBox>
+    </Grid>
+</Window>

@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskSystemTests", "TaskSyst
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSFront", "TSFront\TSFront.csproj", "{03977DD2-0B51-48CE-A95B-98F356519C0C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{6E6C4FD4-A9EB-4EEC-8F7B-609626C5C1FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{03977DD2-0B51-48CE-A95B-98F356519C0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03977DD2-0B51-48CE-A95B-98F356519C0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03977DD2-0B51-48CE-A95B-98F356519C0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E6C4FD4-A9EB-4EEC-8F7B-609626C5C1FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E6C4FD4-A9EB-4EEC-8F7B-609626C5C1FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E6C4FD4-A9EB-4EEC-8F7B-609626C5C1FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E6C4FD4-A9EB-4EEC-8F7B-609626C5C1FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

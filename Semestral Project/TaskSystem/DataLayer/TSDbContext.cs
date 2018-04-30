@@ -27,7 +27,7 @@ namespace DataLayer
 					switch (values[0])
 					{
 						case "Database Link":
-							builder.Append("Data Source=" + values[1].Normalize() + ";");
+							builder.Append("Data Source=" + values[1].Normalize() /*@"np:\\.\pipe\LOCALDB#1B7B8FA2\tsql\query"*/ + "; ");
 							break;
 						case "Database Name":
 							builder.Append("Initial Catalog=" + values[1].Normalize() + ";");
